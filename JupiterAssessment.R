@@ -1,7 +1,7 @@
 library(tidyverse)
 library(readr)
 library(quantmod)
-
+s 
 #Define Alibaba aproximate Cost of Product and Initialize variables
 demand <-100
 inventory<-demand*1.5
